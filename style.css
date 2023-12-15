@@ -1,0 +1,78 @@
+body {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+#logo {
+
+    text-align: center;
+}
+
+#sub-logo {
+
+    width: 180px;
+    margin: 36px 0px 20px 0px;
+    
+}
+
+#direita {
+
+    width: 350px;
+    border: 1px rgb(204, 201, 201) solid;
+    margin: 36px;
+
+}
+
+
+#login {
+
+    padding: 0rem 3rem;
+
+}
+
+#sub-login {
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+button {
+    margin: 10px;
+    background-color: RGB(76, 181, 249);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 0.4rem;
+    font-weight: 600;
+}
+
+input{
+   margin: 3px;
+   padding: 9px 0px 7px 8px;
+   border-radius: 0.5rex;
+   border: 1px rgb(204, 201, 201) solid;
+   background-color: #FAFAFA;
+   
+}
+
+#facebook{
+    margin: 0px 7px 0px 7px;
+    width: 15px;
+}
+#FBK{
+    text-decoration: underline;
+}
+
+#senha{
+      margin: 15px;
+      text-decoration: underline;
+}
+
+.image {
+    width: 380px;
+    margin: 10px;
+}
