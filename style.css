@@ -1,0 +1,158 @@
+
+#bodyl{
+    display: flex;
+    justify-content: center;
+}
+
+#logo {
+
+    text-align: center;
+}
+
+#sub-logo {
+    text-decoration: none;
+    width: 180px;
+    margin: 36px 0px 20px 0px;
+    
+}
+
+#direita {
+
+    width: 350px;
+    margin: 36px;
+
+}
+
+
+
+#login {
+    border: 1px rgba(204, 201, 201, 0.708) solid;
+    padding: 0rem 3rem;
+
+}
+
+#sub-login {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+
+}
+
+#senhalogin{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+button {
+    margin: 10px 0.5px;
+    background-color: RGB(76, 181, 249);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 0.4rem;
+    font-weight: 600;
+}
+
+input{
+   
+   margin-top: 6px;
+   padding: 9px 0px 7px 8px;
+   border-radius: 0.5rex;
+   border: 1px rgba(204, 201, 201, 0.708) solid;
+   background-color: #FAFAFA;
+   
+}
+
+input::placeholder{
+    font-size: 12px;
+}
+
+#facebook{
+    margin: 0px 6px 0px 6px;
+    width: 17px;
+}
+
+#imagemlogo{
+margin-top: 36px ;
+width: 400px;
+height: 538px;
+border-radius: 4.5rex;
+
+}
+
+#FBK a{
+    text-decoration: none;
+    color: RGB(56, 81, 133);
+}
+
+#senha{
+      margin: 15px;
+      text-decoration: none;
+      font-size: small;
+      color: RGB(56, 81, 133);
+}
+
+.image {
+    width: 380px;
+    margin: 10px;
+}
+#cadastrar{
+    border: 1px rgba(204, 201, 201, 0.708) solid;
+    margin-top: 10px;
+    padding: 1.5rem 0rem; 
+    text-align: center;
+}
+
+
+#cadastrar a{
+    color: RGB(21, 164, 248);
+    text-decoration: none;
+}
+
+#app{
+    
+    text-align: center;
+}
+   
+#app img{
+    width: 134px;
+}
+
+#app #um{
+    width: 110px;
+}
+
+#final{
+    text-align: center;
+
+}
+#final a{
+    text-decoration: none;
+    font-size:small;
+    font-weight: 400;
+    color: #686868e7;
+    padding: 0.4rem;
+}
+
+
+#finalpro{
+    margin-top: 45px;
+}
+
+#final3{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#final3 a{
+
+text-decoration: none;
+font-size:small;
+font-weight: 400;    
+color: #686868e7;
+padding: 0.4rem;
+
+}
